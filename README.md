@@ -1,19 +1,19 @@
 # Project 1 README
 
-Student: Full Name (123456789)
+Student: Quanzhi Shao (919164480)
 
 ## Project Status
-This the current status of the project ...
+All the three circuits are work successfully.
 
 ## Known Issues
-The project fails to function properly in ...
+There are currently no issues. 
 
 ## References
 * [Build an XOR gate from AND/NOT](https://electronics.stackexchange.com/questions/487529/build-an-xor-gate-from-and-not)
 * [Some other link](https://stackoverflow.com)
 
 ## Generative AI Use
-I used ChatGPT for Prompt 1, and ZZZZZ for Prompt 2....
+I did not use any generative AI to complete the assignment.
 
 ### Prompt 1
 How do you create an XOR from only and/or/not gates?
